@@ -1,7 +1,7 @@
 [
   {
     "name": "name1",
-    "description": "Приветб name1",
+    "description": "Привет, name1",
     "status": true,
     "created": "10/2/2020, 11:39:22 AM",
     "id": "786f57ec-e883-40ca-bf5a-184a914ab83b"
@@ -9,7 +9,7 @@
   {
     "name": "234",
     "description": "Привет, 234",
-    "status": true,
+    "status": false,
     "created": "10/2/2020, 11:39:26 AM",
     "id": "05b77219-7693-4a70-9b8c-eed9c3792712"
   },
